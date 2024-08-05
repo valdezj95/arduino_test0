@@ -5,5 +5,6 @@
 
 Board selection
 ![](board_selection.png)
+
 Basic lorawan selection:
 ![](board_lorawan_basic_selection.png)
