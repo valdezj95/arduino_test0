@@ -10,3 +10,11 @@ Board selection:
 Basic lorawan selection:
 
 ![](board_lorawan_basic_selection.png)
+
+For Datacake LNS LoRaWAN, go to configuration view
+
+![](config.png)
+
+Test values to match with programming file:
+
+![](lora_param.png)
